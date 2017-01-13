@@ -8,5 +8,8 @@ You should do something.
 # Like click a button?
 Well, then play
 Nitrotype.com 
+It will help you
 
-theme: jekyll-theme-time-machine
+
+
+# theme: jekyll-theme-time-machine
